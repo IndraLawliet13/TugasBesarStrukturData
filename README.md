@@ -8,7 +8,7 @@ Dokumen ini menjelaskan desain algoritma yang digunakan dalam program Sistem Rek
 
 Program ini menggunakan struktur data **Graph** untuk merepresentasikan jaringan penerbangan. Berikut adalah definisi struktur data yang digunakan:
 
-```c++
+
 struct Vertex {
     string idBandara;       // ID unik bandara (misal: CGK)
     string namaBandara;     // Nama lengkap bandara (misal: Soekarno-Hatta)
